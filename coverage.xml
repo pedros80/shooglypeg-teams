@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1658957120">
-  <project timestamp="1658957120">
+<coverage generated="1658958360">
+  <project timestamp="1658958360">
     <file name="/home/runner/work/shooglypeg-teams/shooglypeg-teams/src/Exceptions/InvalidTeamName.php">
       <class name="ShooglyPeg\Teams\Exceptions\InvalidTeamName" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
