@@ -130,6 +130,8 @@ final class TeamName extends Name
         'Hamilton'      => self::HAMILTON_ACADEMICAL,
         'Hearts'        => self::HEART_OF_MIDLOTHIAN,
         'Inverness CT'  => self::INVERNESS_CALEDONIAN_THISTLE,
+        'Kelty'         => self::KELTY_HEARTS,
+        'Partick'       => self::PARTICK_THISTLE,
         'Queen of Sth'  => self::QUEEN_OF_THE_SOUTH,
         'Queen\'s Pk'   => self::QUEENS_PARK,
         'Raith'         => self::RAITH_ROVERS,
