@@ -33,7 +33,7 @@ final class TeamName extends Name
     public const DUNFERMLINE_ATHLETIC         = 'Dunfermline Athletic';
     public const EAST_FIFE                    = 'East Fife';
     public const EAST_STIRLINGSHIRE           = 'East Stirlingshire';
-    public const EDINBURGH_CITY               = 'Edinburgh City';
+    public const FC_EDINBURGH                 = 'FC Edinburgh';
     public const ELGIN_CITY                   = 'Elgin City';
     public const FALKIRK                      = 'Falkirk';
     public const FORFAR_ATHLETIC              = 'Forfar Athletic';
@@ -81,7 +81,7 @@ final class TeamName extends Name
         self::DUNFERMLINE_ATHLETIC,
         self::EAST_FIFE,
         self::EAST_STIRLINGSHIRE,
-        self::EDINBURGH_CITY,
+        self::FC_EDINBURGH,
         self::ELGIN_CITY,
         self::FALKIRK,
         self::FORFAR_ATHLETIC,
@@ -112,30 +112,31 @@ final class TeamName extends Name
     private const NONLEAGUE = [self::BERWICK_RANGERS, self::COWDENBEATH, self::EAST_STIRLINGSHIRE];
 
     private const SHORT = [
-        'Airdrie'       => self::AIRDRIEONIANS,
-        'Albion'        => self::ALBION_ROVERS,
-        'Alloa'         => self::ALLOA_ATHLETIC,
-        'Annan'         => self::ANNAN_ATHLETIC,
-        'Ayr'           => self::AYR_UNITED,
-        'Bonnyrigg'     => self::BONNYRIGG_ROSE_ATHLETIC,
-        'Berwick'       => self::BERWICK_RANGERS,
-        'Brechin'       => self::BRECHIN_CITY,
-        'Cove'          => self::COVE_RANGERS,
-        'Dundee Utd'    => self::DUNDEE_UNITED,
-        'Dunfermline'   => self::DUNFERMLINE_ATHLETIC,
-        'East Stirling' => self::EAST_STIRLINGSHIRE,
-        'Elgin'         => self::ELGIN_CITY,
-        'Forfar'        => self::FORFAR_ATHLETIC,
-        'Morton'        => self::GREENOCK_MORTON,
-        'Hamilton'      => self::HAMILTON_ACADEMICAL,
-        'Hearts'        => self::HEART_OF_MIDLOTHIAN,
-        'Inverness CT'  => self::INVERNESS_CALEDONIAN_THISTLE,
-        'Kelty'         => self::KELTY_HEARTS,
-        'Partick'       => self::PARTICK_THISTLE,
-        'Queen of Sth'  => self::QUEEN_OF_THE_SOUTH,
-        'Queen\'s Pk'   => self::QUEENS_PARK,
-        'Raith'         => self::RAITH_ROVERS,
-        'Stirling'      => self::STIRLING_ALBION,
+        'Airdrie'        => self::AIRDRIEONIANS,
+        'Albion'         => self::ALBION_ROVERS,
+        'Alloa'          => self::ALLOA_ATHLETIC,
+        'Annan'          => self::ANNAN_ATHLETIC,
+        'Ayr'            => self::AYR_UNITED,
+        'Bonnyrigg'      => self::BONNYRIGG_ROSE_ATHLETIC,
+        'Berwick'        => self::BERWICK_RANGERS,
+        'Brechin'        => self::BRECHIN_CITY,
+        'Cove'           => self::COVE_RANGERS,
+        'Dundee Utd'     => self::DUNDEE_UNITED,
+        'Dunfermline'    => self::DUNFERMLINE_ATHLETIC,
+        'East Stirling'  => self::EAST_STIRLINGSHIRE,
+        'Edinburgh City' => self::FC_EDINBURGH,
+        'Elgin'          => self::ELGIN_CITY,
+        'Forfar'         => self::FORFAR_ATHLETIC,
+        'Morton'         => self::GREENOCK_MORTON,
+        'Hamilton'       => self::HAMILTON_ACADEMICAL,
+        'Hearts'         => self::HEART_OF_MIDLOTHIAN,
+        'Inverness CT'   => self::INVERNESS_CALEDONIAN_THISTLE,
+        'Kelty'          => self::KELTY_HEARTS,
+        'Partick'        => self::PARTICK_THISTLE,
+        'Queen of Sth'   => self::QUEEN_OF_THE_SOUTH,
+        'Queen\'s Pk'    => self::QUEENS_PARK,
+        'Raith'          => self::RAITH_ROVERS,
+        'Stirling'       => self::STIRLING_ALBION,
     ];
 
     public const TYPOS = [
