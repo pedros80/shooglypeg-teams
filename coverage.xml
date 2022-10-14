@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1658965927">
-  <project timestamp="1658965927">
+<coverage generated="1665786048">
+  <project timestamp="1665786048">
     <file name="/home/runner/work/shooglypeg-teams/shooglypeg-teams/src/Exceptions/InvalidTeamName.php">
       <class name="ShooglyPeg\Teams\Exceptions\InvalidTeamName" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
@@ -15,23 +15,23 @@
       <class name="ShooglyPeg\Teams\TeamName" namespace="global">
         <metrics complexity="7" methods="5" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="10" coveredstatements="10" elements="15" coveredelements="15"/>
       </class>
-      <line num="152" type="method" name="__construct" visibility="public" complexity="3" crap="3" count="5"/>
-      <line num="154" type="stmt" count="5"/>
-      <line num="155" type="stmt" count="2"/>
+      <line num="153" type="method" name="__construct" visibility="public" complexity="3" crap="3" count="5"/>
+      <line num="155" type="stmt" count="5"/>
       <line num="156" type="stmt" count="2"/>
-      <line num="157" type="stmt" count="1"/>
-      <line num="159" type="stmt" count="1"/>
-      <line num="163" type="stmt" count="4"/>
-      <line num="166" type="method" name="short" visibility="public" complexity="1" crap="1" count="1"/>
-      <line num="168" type="stmt" count="1"/>
-      <line num="171" type="method" name="random" visibility="public" complexity="1" crap="1" count="1"/>
-      <line num="173" type="stmt" count="1"/>
-      <line num="176" type="method" name="league" visibility="public" complexity="1" crap="1" count="1"/>
-      <line num="178" type="stmt" count="1"/>
-      <line num="181" type="method" name="all" visibility="public" complexity="1" crap="1" count="1"/>
-      <line num="183" type="stmt" count="1"/>
-      <metrics loc="186" ncloc="181" classes="1" methods="5" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="10" coveredstatements="10" elements="15" coveredelements="15"/>
+      <line num="157" type="stmt" count="2"/>
+      <line num="158" type="stmt" count="1"/>
+      <line num="160" type="stmt" count="1"/>
+      <line num="164" type="stmt" count="4"/>
+      <line num="167" type="method" name="short" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="169" type="stmt" count="1"/>
+      <line num="172" type="method" name="random" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="174" type="stmt" count="1"/>
+      <line num="177" type="method" name="league" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="179" type="stmt" count="1"/>
+      <line num="182" type="method" name="all" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="184" type="stmt" count="1"/>
+      <metrics loc="187" ncloc="182" classes="1" methods="5" coveredmethods="5" conditionals="0" coveredconditionals="0" statements="10" coveredstatements="10" elements="15" coveredelements="15"/>
     </file>
-    <metrics files="2" loc="207" ncloc="202" classes="2" methods="7" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="19" coveredelements="19"/>
+    <metrics files="2" loc="208" ncloc="203" classes="2" methods="7" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="19" coveredelements="19"/>
   </project>
 </coverage>
